@@ -1,8 +1,8 @@
-#dirtree
+# dirtree
 
 CLI-based app to generate directory tree
 
-#Getting Started
+# Getting Started
 1. Setting up your virtual environment or you can use ```pipenv```.
 2. Run program from console
     ```console
@@ -26,7 +26,7 @@ CLI-based app to generate directory tree
    └── test_1_file
    ```
    
-#Features
+# Features
 1. Generate directory tree and display it on your terminal
     ```console
     python3 tree.py [ROOT_DIR]
