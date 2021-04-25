@@ -9,7 +9,7 @@ CLI-based app to generate directory tree
     python3 tree.py [ROOT_DIR]
     ```
    
-   ```
+   ```console
    python3 tree.py ../test_dirtree
    
    ../test_dirtree/
